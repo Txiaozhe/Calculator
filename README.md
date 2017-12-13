@@ -3,4 +3,5 @@
 * 一个简单的计算器demo，基于android 原生开发，使用Java语言。支持简单的数值计算和汇率换算。
 * 页面效果：
 
-![]('./calculator.phg')
+![](https://github.com/Txiaozhe/Calculator/blob/master/calculator.png)
+![](https://github.com/Txiaozhe/Calculator/blob/master/converter.jpg)
